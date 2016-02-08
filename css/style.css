@@ -33,7 +33,6 @@ a {
     -webkit-transition: all 0.1s ease-in-out;
     -o-transition: all 0.1s ease-in-out;
     outline: none;
-	color:#333;
 }
 a:hover {
   text-decoration: none;
