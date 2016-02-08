@@ -1,0 +1,28 @@
+#install { opacity: 0; }
+
+#install .features { margin: -35px 0 18px; font-size: 1.7em; }
+
+#install .feature { max-width: 500px; display: inline-block; overflow: hidden; vertical-align: top; -webkit-transition: width 0.25s ease; transition: width 0.25s ease; }
+
+#install .feature .prototype { position: absolute; opacity: 0; }
+
+#install .button { padding: 20px 40px; display: inline-block; background: rgba(0,0,0,0.3); border-radius: 3px; box-shadow: 0 0 40px rgba(0,0,0,0.4); color: #fff; font-size: 1em; font-weight: normal; text-shadow: none; background: rgba(255,255,255,0.95); color: black; }
+
+#install .button:hover { background: rgba(255,255,255,1); -webkit-transform: scale(1.035); transform: scale(1.035); -transition: scale(1.035); }
+
+#install .fa { margin-right: 4px; font-size: 1.2em; vertical-align: -3%; }
+
+#install .call-to-action { display: none; font-size: 1.2em; font-weight: bold; }
+
+#install .button-small { min-width: 250px; margin-top: 10px; font-size: 0.9em; }
+
+#install .button-small .fa { margin-left: -2px; margin-right: 2px; font-size: 1em; vertical-align: 0%; }
+
+#install .button-inline { min-width: 150px; margin-right: 10px; }
+
+#install .bottom-message { margin-top: 15px; display: block; font-size: 0.7em; }
+
+#install .button-small-inline { margin-left: 5px; padding: 8px; background: none; border: 1px solid white; color: white; }
+
+#install .button-small-inline:hover { color: #000; }
+		*/
