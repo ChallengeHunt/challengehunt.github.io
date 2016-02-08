@@ -14,9 +14,13 @@ body {
 	background-color:#fff;
 }
 
-hi,h2,h3,h4,h5,h6 {
+h1,h2,h3,h4,h5,h6 {
 	color:#333;
 	line-height:1.1em;
+}
+
+#install-button {
+  background-color: #9575CD;
 }
 
 p {
@@ -64,7 +68,7 @@ a.navbar-brand span {
 .navbar-fixed-top {
   top: 0;
   border-width: 0 0 0;
-  background-color:#563d7c;
+  background-color:#9575CD;
 }
 .nav-tabs {
   border-bottom:0; 
@@ -533,7 +537,7 @@ footer {
 }
 .last-div {
 	margin-top:40px;
-    background: #563d7c;
+    background: #9575CD;
     padding: 20px 0;
     position: relative;
 }
